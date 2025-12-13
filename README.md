@@ -60,7 +60,7 @@
 
 ###  Certifications
 
--  **Certified Ethical Hacker (CEH)** – Valid until Nov 2025  
+-  **Certified Ethical Hacker (CEH)**  
 -  Ongoing self-study in advanced threat hunting and detection  
 
 ---
