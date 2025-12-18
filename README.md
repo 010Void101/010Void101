@@ -3,10 +3,10 @@
 ###  Network Security
 
 <p>
-  <img src="https://img.shields.io/badge/Fortinet-FC0000?style=for-the-badge&logo=fortinet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/EVE--NG-000000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-1D9BD1?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fortinet-DA291C?style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-395DAB?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/EVE--NG-293236?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-02C8FF?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
 - Configured FortiGate firewalls for security policies, VPNs, and network segmentation.
@@ -19,9 +19,9 @@
 ###  SIEM & Detection
 
 <p>
-  <img src="https://img.shields.io/badge/Wazuh-005F9E?style=for-the-badge&logo=wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wazuh-3585F9?style=for-the-badge&logo=wazuh&logoColor=white" />
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Suricata-FF9933?style=for-the-badge&logo=suricata&logoColor=white" />
+  <img src="https://img.shields.io/badge/Suricata-F5652B?style=for-the-badge&logo=suricata&logoColor=white" />
 </p>
 
 - Configured log agents and rules for Wazuh  
@@ -34,7 +34,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Cisco_ISE-1D9BD1?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows_Server-00ADEF?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
 - Configured Cisco ISE for AAA (RADIUS/TACACS+) and automated network access policies.
@@ -46,9 +46,9 @@
 
 <p>
   <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-000080?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-2E2E2E?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-3258E2?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-2A0D45?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-387EB8?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 - Simulated attacks: Reverse shells, Tunneling, network exploits, brute-force  
