@@ -64,3 +64,11 @@
 -  Ongoing self-study in advanced threat hunting and detection  
 
 ---
+
+### TryHackMe
+
+- Top 2 %
+- Completed Paths:
+  - SOC Level 1
+
+---
