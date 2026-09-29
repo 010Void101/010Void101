@@ -24,8 +24,9 @@
   <img src="https://img.shields.io/badge/Suricata-F5652B?style=for-the-badge&logo=suricata&logoColor=white" />
 </p>
 
-- Configured log agents and rules for Wazuh  
-- Designed dashboards and triggered alerts in Splunk  
+- Configured log agents and rules for Wazuh
+- Implemented detection mechanisms for threat hunting in Wazuh
+- Designed dashboards, performed alert triage, and analyzed event correlations in Splunk  
 - Created custom IDS rules in Suricata and validated attack detection  
 
 ---
@@ -42,7 +43,7 @@
 
 ---
 
-###  Offensive Security & PenTesting
+###  Offensive Security
 
 <p>
   <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
