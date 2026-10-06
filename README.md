@@ -68,7 +68,7 @@
 
 ### TryHackMe
 
-- Top 2 %
+- Top 1 %
 - Completed Paths:
   - Cyber Security 101
   - SOC Level 1
