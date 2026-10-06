@@ -70,6 +70,7 @@
 
 - Top 2 %
 - Completed Paths:
+  - Cyber Security 101
   - SOC Level 1
 
 ---
